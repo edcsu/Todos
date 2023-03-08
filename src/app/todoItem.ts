@@ -6,6 +6,6 @@ export class TodoItem {
         this.createdAt = Date.now()
     } 
     
-    public createdAt: number;
+    createdAt: number;
 
 }
